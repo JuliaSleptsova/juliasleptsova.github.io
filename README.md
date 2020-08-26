@@ -1,2 +1,2 @@
- Portfolio site, under development
+ Portfolio site, under development.
  URL: http://juliasleptsova.ru/
